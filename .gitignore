@@ -1,0 +1,10 @@
+# تجاهل ملفات النظام
+.DS_Store
+
+# تجاهل مجلدات build
+target/
+.vscode/
+
+# تجاهل ملفات Logs أو cache
+*.log
+*.class
