@@ -11,6 +11,7 @@ Build and deploy a Java application using Docker, Jenkins, Trivy, SonarQube, Kub
 * SonarQube
 * Jenkins
 * Kubernetes
+* ArgoCD
 * Prometheus + Grafana + BlackBox
 
 # Steps in the CI/CD pipeline
